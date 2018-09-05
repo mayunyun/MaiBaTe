@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MaiBaTe.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>38A5066B0717F22651EF20E9F6354D91DBC0BD08</string>
+				<key>dateExpires</key>
+				<string>2019/3/2</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5M43B9PR5H.com.lianxiang.maibate</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5M43B9PR5H</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>5M43B9PR5H.com.lianxiang.maibate</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MaiBaTe.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ba78a3d1-18e8-4d7d-b3c0-8d5f264fa749</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.lianxiang.maibate</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5M43B9PR5H</string>
+				<key>name</key>
+				<string>Lianxiang network technology jinan co., LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
